@@ -19,9 +19,9 @@ brew cask info this-is-somewhat-annoying 2>/dev/null
 # Homebrew casks
 casks=(
   # Applications
-  1password
+  #1password
   a-better-finder-rename
-  aluxian-messenger
+  #aluxian-messenger
   battle-net
   bettertouchtool
   charles
@@ -33,44 +33,44 @@ casks=(
   fastscripts
   firefox
   google-chrome
-  gyazo
-  hermes
+  #gyazo
+  #hermes
   hex-fiend
   iterm2
   karabiner
   launchbar
   macvim
   menumeters
-  midi-monitor
+  #midi-monitor
   moom
   omnidisksweeper
-  race-for-the-galaxy
-  reaper
+  #race-for-the-galaxy
+  #reaper
   remote-desktop-connection
-  scroll-reverser
-  seil
-  sharemouse
+  #scroll-reverser
+  #seil
+  #sharemouse
   skype
-  slack
+  #slack
   sonos
   sourcetree
-  spotify
-  star-realms
-  steam
-  synology-assistant
-  teamspeak-client
+  #spotify
+  #star-realms
+  #steam
+  #synology-assistant
+  #teamspeak-client
   teamviewer
   the-unarchiver
   todoist
   totalfinder
-  tower
+  #tower
   transmission-remote-gui
   vagrant
   virtualbox
   vlc
-  ynab
+  #ynab
   # Drivers
-  d235j-xbox360-controller-driver
+  #d235j-xbox360-controller-driver
   # Quick Look plugins
   betterzipql
   qlcolorcode
