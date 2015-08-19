@@ -20,17 +20,17 @@ brew cask info this-is-somewhat-annoying 2>/dev/null
 casks=(
   # Applications
   #1password
-  a-better-finder-rename
+#a-better-finder-rename
   #aluxian-messenger
   battle-net
   bettertouchtool
-  charles
+#charles
   chromium
-  chronosync
+#chronosync
   dropbox
   duet
   easysimbl
-  fastscripts
+#fastscripts
   firefox
   google-chrome
   #gyazo
@@ -42,7 +42,7 @@ casks=(
   macvim
   menumeters
   #midi-monitor
-  moom
+#moom
   omnidisksweeper
   #race-for-the-galaxy
   #reaper
@@ -61,11 +61,11 @@ casks=(
   #teamspeak-client
   teamviewer
   the-unarchiver
-  todoist
-  totalfinder
+#todoist
+# totalfinder
   #tower
   transmission-remote-gui
-  vagrant
+# vagrant
   virtualbox
   vlc
   #ynab
